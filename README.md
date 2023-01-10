@@ -2,7 +2,7 @@
 
 Sou desenvolvedor Front-end, com experiência em desenvolvimento de sites e sistemas web. Comecei a trabalhar com TI em 2014 durante a faculdade de Análise e Desenvolvimento de Sistemas, gosto de estudar e aprender novas tecnologias para continuar evoluindo, visando sempre solucionar os problemas.
 
--
+~
 
 I'm Front-end developer, with experience in website development and web systems. I started to work with IT in 2014 during the college, I like to study and learn new technologies to keep evolving, aimming to always to solve problems.
 
