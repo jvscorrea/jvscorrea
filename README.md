@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-Sou desenvolvedor Front-end, com experiência em desenvolvimento de sites e sistemas web. Comecei a trabalhar com TI em 2014 durante a faculdade de Análise e Desenvolvimento de Sistemas, gosto de estudar e aprender novas tecnologias para continuar evoluindo, visando sempre solucionar os problemas.
-
-~
-
-I'm Front-end developer, with experience in website development and web systems. I started to work with IT in 2014 during the college, I like to study and learn new technologies to keep evolving, aimming to always to solve problems.
+I'm Frontend developer for 9 years ago, trough all this years I've been learning a lot of things about users experience and new ways to development amazing interfaces. I work with the technologies React, Typescript, Javascript and I have a good knowlodge for Figma projects to extract layouts and to make available on web.
 
 <!--
 **joaovsantos/joaovsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
