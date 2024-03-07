@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Frontend developer for 9 years ago, trough all this years I've been learning a lot of things about users experience and new ways to development amazing interfaces. I work with the technologies React, Typescript, Javascript and I have a good knowlodge for Figma projects to extract layouts and to make available on web.
+I'm a Frontend developer for 9 years ago, through all these years I've been learning a lot of things about user experience and new ways to develop amazing interfaces. I work with the technologies React, Typescript, and Javascript. I have good knowledge of Figma projects to extract layouts and make them available on the web.
 
 <!--
 **joaovsantos/joaovsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
