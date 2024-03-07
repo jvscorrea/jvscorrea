@@ -2,6 +2,8 @@
 
 I'm a Frontend developer for 9 years ago, through all these years I've been learning a lot of things about user experience and new ways to develop amazing interfaces. I work with the technologies React, Typescript, and Javascript. I have good knowledge of Figma projects to extract layouts and make them available on the web.
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-444444?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvscorrea/)](https://www.linkedin.com/in/jvscorrea/)
+
 <!--
 **joaovsantos/joaovsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
