@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Frontend developer for 9 years, through all these years I've been learning a lot of things about user experience and new ways to develop amazing interfaces. I work with the technologies React, Typescript, and Javascript. I have good knowledge of Figma projects to extract layouts and make them available on the web.
+I’m a Frontend developer since 2015, through all this time I've been learning and improving my knowledge of frontend technologies, design skills, user experience, and new ways to develop amazing interfaces. I work with the technologies React, Typescript, and Javascript. I have good knowledge of Figma projects to extract layouts and make them available to users.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-444444?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvscorrea/)](https://www.linkedin.com/in/jvscorrea/)
 
